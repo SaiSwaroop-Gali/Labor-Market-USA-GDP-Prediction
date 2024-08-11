@@ -2,11 +2,9 @@
 
 ![Labor-Market-USA-GDP-Prediction](/images/GDPPrediction.jpeg)
 
-• Analyzed FRED API data with Python and machine learning, identifying Consumer Price Index (CPI) as key
-influence in consumer spending to enhance forecasting, showcasing prediction skills relevant to BI
-development.
+•	Extracted and analyzed economic indicators from the FRED API, identifying key factors influencing consumer spending to enhance economic forecasting and decision-making.
 
-• Applied Principal Component Analysis and time series analysis to enhance the accuracy and robustness of
-models predicting labor market and GDP trends.
+•	Applied feature engineering and machine learning models, optimizing predictive accuracy for labor market and GDP trends, contributing to informed business and policy decisions.
+
 
 **Tech Stack:** Python, Machine Learning models (Regression Analysis, Decision Tree, Random Forest, SV Regression)
